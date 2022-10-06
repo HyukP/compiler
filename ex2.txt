@@ -1,0 +1,8 @@
+"Hello World
+123abc + 8 ;
+str:=%3;
+abc123abc
+new World"
+"string\kstring"
+fine()
+()compiler
