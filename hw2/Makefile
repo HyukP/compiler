@@ -4,4 +4,4 @@ hw2.exe:	hw2.l
 
 .PHONY: clean
 clean :
-	rm -rf hw2.exe lex.yy.c
+	rm -rf hw2.exe lex.yy.c *.out
